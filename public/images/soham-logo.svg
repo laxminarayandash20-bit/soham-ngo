@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- Symbol: Hands cradling a sprout & rising sun -->
+  <g transform="translate(10, 10)">
+    <!-- Sun -->
+    <circle cx="30" cy="22" r="12" fill="#F59E0B" />
+    <path d="M30 6V2M30 38V42M14 22H10M46 22H50M18.7 10.7L15.9 7.9M41.3 33.3L44.1 36.1M18.7 33.3L15.9 36.1M41.3 10.7L44.1 7.9" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round" />
+    <!-- Sprout / Leaves -->
+    <path d="M30 46C30 35 20 28 20 28C20 38 30 46 30 46Z" fill="#10B981" />
+    <path d="M30 46C30 35 40 28 40 28C40 38 30 46 30 46Z" fill="#059669" />
+    <!-- Caring Hands -->
+    <path d="M8 44C12 40 18 38 24 41L30 47L36 41C42 38 48 40 52 44C56 48 54 54 48 57L33 62C31 62.6 29 62.6 27 62L12 57C6 54 4 48 8 44Z" fill="#047857" opacity="0.9" />
+  </g>
+  <!-- Typography -->
+  <text x="82" y="42" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="28" fill="#064E3B" letter-spacing="0.05em">SOHAM</text>
+  <rect x="195" y="24" width="48" height="22" rx="4" fill="#10B981" />
+  <text x="202" y="40" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="14" fill="#FFFFFF" letter-spacing="0.1em">NGO</text>
+  <text x="84" y="58" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="11" fill="#4B5563" letter-spacing="0.12em">TRANSFORMING LIVES WITH DIGNITY</text>
+</svg>
